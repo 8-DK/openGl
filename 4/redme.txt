@@ -1,0 +1,3 @@
+#for compile program use following command
+>gcc -o out main.c -lglut -lGLU -lGL -lXext -lX11 -lm
+>./out
